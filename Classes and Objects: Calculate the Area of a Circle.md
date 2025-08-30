@@ -30,5 +30,6 @@ obj.mech(r)
 ## Output
 <img width="955" height="240" alt="438927051-0fb24ed2-e483-4f0c-8114-cdb94b36b0cf" src="https://github.com/user-attachments/assets/0a5104c2-45f9-479b-ad8d-22bd4b536dd4" />
 
+
 ## Result
 Thus the program executed successfully.
